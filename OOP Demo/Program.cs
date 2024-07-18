@@ -17,6 +17,9 @@ namespace OOP_Demo
 
             child.Fun1();
             child.Fun2();
+
+
+          
         }
     }
 }
